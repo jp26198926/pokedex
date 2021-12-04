@@ -1,0 +1,10 @@
+.pokemonData {
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.forImage img{
+    width: 80%;
+    margin: auto;
+}
