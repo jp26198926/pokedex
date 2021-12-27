@@ -1,4 +1,4 @@
-This is the frontend of Basic Support System application.
+This my Uplift CodeCamp Project 3
 
 # Installation
 1. git clone https://github.com/jp26198926/pokedex.git
